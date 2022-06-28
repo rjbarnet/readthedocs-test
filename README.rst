@@ -1,9 +1,9 @@
-Template for the Read the Docs tutorial
+readthedoc Example for Config File
 =======================================
 
-This GitHub template includes fictional Python library
-with some basic Sphinx docs.
+This is an example project which illustrates how readthedoc could be used for
+documenting a configuration file.
 
-Read the tutorial here:
+Project was modified from the this tutorial here:
 
 https://docs.readthedocs.io/en/stable/tutorial/
